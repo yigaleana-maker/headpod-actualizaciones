@@ -18,6 +18,31 @@
 
 ---
 
+## La primera vez que la abres
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><img src="imagenes/pantallas/1-bienvenida.png" width="240" alt="Bienvenida"><br><sub><b>Bienvenida</b></sub></td>
+    <td align="center" width="33%"><img src="imagenes/pantallas/2-programas.png" width="240" alt="Tu nombre y tus programas"><br><sub><b>Tu nombre y tus programas</b></sub></td>
+    <td align="center" width="33%"><img src="imagenes/pantallas/3-escucha.png" width="240" alt="Escucha a tu manera"><br><sub><b>Escucha a tu manera</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="imagenes/pantallas/4-avisos.png" width="240" alt="Que no se te pase nada"><br><sub><b>Que no se te pase nada</b></sub></td>
+    <td align="center" width="33%"><img src="imagenes/pantallas/5-tema.png" width="240" alt="Tu tema"><br><sub><b>Tu tema</b></sub></td>
+    <td align="center" width="33%"><img src="imagenes/pantallas/6-respaldo.png" width="240" alt="Trae lo tuyo"><br><sub><b>Trae lo tuyo</b></sub></td>
+  </tr>
+</table>
+
+## Así se ve
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><img src="imagenes/pantallas/inicio.png" width="240" alt="Inicio y tu mezcla del día"><br><sub><b>Inicio y tu mezcla del día</b></sub></td>
+    <td align="center" width="33%"><img src="imagenes/pantallas/descubrir.png" width="240" alt="Descubrir"><br><sub><b>Descubrir</b></sub></td>
+    <td align="center" width="33%"><img src="imagenes/pantallas/biblioteca.png" width="240" alt="Biblioteca"><br><sub><b>Biblioteca</b></sub></td>
+  </tr>
+</table>
+
 ## Lo que tiene
 
 - 🎧 **Tus programas por día:** Hoy, Ayer, Esta semana… con su avance en cada episodio.
