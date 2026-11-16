@@ -45,6 +45,19 @@
   </tr>
 </table>
 
+## Elige tu reproductor
+
+En **Ajustes → Reproductor** escoges el estilo que más te guste:
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><img src="imagenes/pantallas/rep-material3.png" width="200" alt="Material 3"><br><sub><b>Material 3</b></sub></td>
+    <td align="center" width="25%"><img src="imagenes/pantallas/rep-disco.png" width="200" alt="Disco"><br><sub><b>Disco</b></sub></td>
+    <td align="center" width="25%"><img src="imagenes/pantallas/rep-portada.png" width="200" alt="Portada completa"><br><sub><b>Portada completa</b></sub></td>
+    <td align="center" width="25%"><img src="imagenes/pantallas/rep-clasico.png" width="200" alt="Clásico"><br><sub><b>Clásico</b></sub></td>
+  </tr>
+</table>
+
 ## Lo que tiene
 
 - 🎧 **Tus programas por día:** Hoy, Ayer, Esta semana… con su avance en cada episodio.
@@ -54,6 +67,9 @@
 - 🌙 **Temporizador** que baja el volumen suave; sacude el teléfono y te da 5 minutos más.
 - 📝 **Transcripción sincronizada** y capítulos, cuando el programa los publica.
 - 📚 **Cola editable, listas propias**, escuchar después y descargas (solo con Wi-Fi si quieres).
+- 🎛️ **Cuatro reproductores:** Material 3, Disco, Portada completa o Clásico.
+- 🌙 **Modo Dormir:** pantalla casi negra, brillo al mínimo y un botón grande.
+- 💬 **Frase en vivo:** debajo del título, lo que se está diciendo (si hay transcripción).
 - 🔵 **Sigue al conectar tus audífonos** Bluetooth, donde te quedaste.
 - 📱 **Widget** con portada, la onda de avance y controles.
 - ✨ **Tu año en Headpod**, para compartir.
