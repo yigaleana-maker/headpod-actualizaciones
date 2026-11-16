@@ -47,7 +47,7 @@
 
 ## Elige tu reproductor
 
-En **Ajustes → Reproductor** escoges el estilo que más te guste:
+Escoges el estilo que más te guste en **Ajustes → Reproductor** o, más fácil, con el botón de la paleta 🎨 dentro del propio reproductor:
 
 <table align="center">
   <tr>
